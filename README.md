@@ -34,12 +34,12 @@ NS-FinalProject-404/
 
 👉 Clone the repository with results:  
 ```bash
-git clone -b results https://github.com/<your-username>/NS-FinalProject-404.git
+git clone -b results https://github.com/SeyedAb2/NS-FinalProject-404.git
 ```
 
 👉 Clone only the codebase (lighter):  
 ```bash
-git clone -b master https://github.com/<your-username>/NS-FinalProject-404.git
+git clone -b master https://github.com/SeyedAb2/NS-FinalProject-404.git
 ```
 
 ---
